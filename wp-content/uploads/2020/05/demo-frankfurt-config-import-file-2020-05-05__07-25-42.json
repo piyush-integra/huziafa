@@ -1,0 +1,122 @@
+{
+    "rey-theme": {
+        "acf_fields_panel": false,
+        "adobe_fonts_project_id": "pax5ijk",
+        "elementor_animations_enable": true,
+        "gs_tax_enable_button": false,
+        "kirki_font_variants": false,
+        "load_polyfills": "request",
+        "preload_google_fonts": false
+    },
+    "options": {
+        "elementor_disable_color_schemes": "yes",
+        "elementor_disable_typography_schemes": "yes",
+        "elementor_container_width": "",
+        "elementor_space_between_widgets": "",
+        "elementor_stretched_section_container": "",
+        "elementor_page_title_selector": "",
+        "elementor_viewport_lg": "",
+        "elementor_viewport_md": "",
+        "woocommerce_enable_myaccount_registration": "no",
+        "woocommerce_enable_signup_and_login_from_checkout": "no",
+        "woocommerce_enable_checkout_login_reminder": "no",
+        "show_on_front": "page",
+        "tinvwl-general": {
+            "default_title": "Default wishlist",
+            "page_wishlist": 1167,
+            "require_login": false,
+            "redirect_require_login": false,
+            "link_in_myaccount": true,
+            "processing_autoremove": true,
+            "processing_redirect_checkout": false,
+            "processing_autoremove_anyone": false,
+            "simple_flow": false,
+            "show_notice": true,
+            "text_browse": "View Wishlist",
+            "redirect": true,
+            "text_added_to": "Product added to Wishlist",
+            "text_already_in": "Product already in Wishlist",
+            "text_removed_from": "Product removed from Wishlist"
+        },
+        "tinvwl-add_to_wishlist": {
+            "position": "after",
+            "class": "",
+            "icon": "heart",
+            "icon_upload": "",
+            "icon_style": "",
+            "show_preloader": false,
+            "show_text": true,
+            "text": "Add to Wishlist",
+            "already_on": false,
+            "text_already_on": "Already In Wishlist",
+            "text_remove": "Remove from Wishlist"
+        },
+        "tinvwl-add_to_wishlist_catalog": {
+            "show_in_loop": true,
+            "position": "above_thumb",
+            "class": "",
+            "icon": "heart",
+            "icon_upload": "",
+            "icon_style": "",
+            "show_preloader": false,
+            "show_text": true,
+            "text": "Add to Wishlist",
+            "already_on": false,
+            "text_already_on": "Already In Wishlist",
+            "text_remove": "Remove from Wishlist"
+        },
+        "tinvwl-page": {
+            "wishlist": 1167
+        },
+        "tinvwl_wizard": false,
+        "woo_variation_swatches": {
+            "tooltip": "1",
+            "style": "squared",
+            "default_to_button": "1",
+            "threshold": "30",
+            "attribute-behavior": "blur",
+            "attribute_image_size": "thumbnail",
+            "width": "30",
+            "height": "30",
+            "single-font-size": "16",
+            "_last_active_tab": "simple",
+            "stylesheet": 0,
+            "clear_on_reselect": 0
+        },
+        "activate-woo-variation-swatches": "no"
+    },
+    "wc_attribute_types": [
+        {
+            "attribute_id": "2",
+            "attribute_name": "color",
+            "attribute_label": "Color",
+            "attribute_type": "color",
+            "attribute_orderby": "menu_order",
+            "attribute_public": 0
+        }
+    ],
+    "pages": {
+        "woocommerce_shop_page_id": "Shop",
+        "woocommerce_cart_page_id": "Cart",
+        "woocommerce_checkout_page_id": "Checkout",
+        "woocommerce_myaccount_page_id": "My account",
+        "woocommerce_terms_page_id": "",
+        "page_on_front": "Homepage",
+        "page_for_posts": "Blog",
+        "tinvwl-general": {
+            "page_wishlist": "Wishlist"
+        }
+    },
+    "remove_pages": {
+        "sample_page": "Sample page",
+        "hello_world": "Hello world!"
+    },
+    "elements_manager": [
+        "reycore-cover-distortion"
+    ],
+    "nav": {
+        "main-menu": "Main menu"
+    },
+    "source-path": "https:\/\/demos.reytheme.com\/frankfurt",
+    "upload-path": "http:\/\/demos.reytheme.com\/frankfurt\/wp-content\/uploads\/sites\/15"
+}

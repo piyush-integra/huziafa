@@ -1,0 +1,1 @@
+!function(u){"use strict";u(document).on("click","li.product .add-request-quote-button",function(t){t.preventDefault(),u(this).addClass("--adding")})}(jQuery);

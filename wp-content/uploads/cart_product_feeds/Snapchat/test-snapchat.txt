@@ -1,0 +1,226 @@
+id	item_group_id	title	description	link	image_link	availability	condition	brand	mpn	gtin	price	age_group	color	gender	google_product_category	product_type	size	additional_image_link	sale_price	sale_price_effective_date	adult	g:custom_label_0	g:custom_label_1	g:custom_label_2	g:custom_label_3	g:custom_label_4	icon_media_url	ios_app_name	ios_app_store_id	ios_url	android_app_name	android_package	android_url	mobile_link
+"3293"		AGNES DINING CHAIR	"High Density PU Sponge.
+Hard Chinese Pine and Plywood.
+Stainless Steel 304# in Antique Bronze.
+Fully Upholstered in Fabric."	"https://www.alhuzaifa.com/shop/agnes-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-DC-16.jpg"	in stock	New				2020		"Rubino Taupe + Antique Brass"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-DC-17.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-DC-18.jpg	1515															
+"3303"	3301	BERYL DINING CHAIR	"High Density PU Sponge.
+Hard Chinese Pine and Plywood.
+
+Stainless Steel 304# in Lux Titanium.
+
+Fully upholstered in fabric."	"https://www.alhuzaifa.com/shop/beryl-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/BERYL-PICCOLO-ANTIQUE-1.jpg"	in stock	New				1870		"Piccolo Antique"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1400															
+"3310"	3308	CAPELLA DINING CHAIR	"Inner frame in powder coated mild steel.
+
+Seat and backrest upholstered with recycle leather."	"https://www.alhuzaifa.com/shop/capella-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/CAPELLA-DARK-GREY-2.jpg"	in stock	New				865		"Dark Grey"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			645															
+"3309"	3308	CAPELLA DINING CHAIR	"Inner frame in powder coated mild steel.
+
+Seat and backrest upholstered with recycle leather."	"https://www.alhuzaifa.com/shop/capella-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/39-2.jpg"	in stock	New				865		"Beige"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			645															
+"3317"		CATALEYA DISPLAY SHELF	"ASH WOOD
+Frame In Walnut.
+
+STAINLESS STEEL IN CHAMPAGNE GOLD FINISH.
+
+SHELVES IN PU GREY MATT ."	"https://www.alhuzaifa.com/shop/cataleya-display-shelf/"		in stock	New				3400		"WALNUT AND GREY MATT."		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			2550															
+"3319"		CATALEYA DINING TABLE GLASS	"TOP:TEMPERED GLASS 15MM.
+LEG:AMERICAN ASH WOOD in Walnut.
+
+STAINLESS STEEL in Champagne gold ."	"https://www.alhuzaifa.com/shop/cataleya-dining-table-glass/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/cataleya-glass.jpg"	in stock	New				11100		"Glass + Walnut"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/3I2A1280.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/3I2A1281.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/3I2A1284.jpg	8325															
+"3323"		CATALEYA DINING TABLE MARBLE	"TOP IN VICTORIA NATURAL MARBLE .
+
+LEG IN AMERICAN ASH WOOD STAINED WALNUT.
+
+STAINLESS STEEL IN CHAMPAGNE GOLD."	"https://www.alhuzaifa.com/shop/cataleya-dining-table-marble/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/6-3.jpg"	in stock	New				23300		"Natural Marble+Walnut+Champagne Gold"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/4-2.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/5-3.jpg	17475															
+"3325"		CATALEYA SIDE BOARD MARBLE	"TOP IN VICTORIA NATURAL MARBLE.
+
+CABINET IN MDF+WALNUT VEENER .
+
+LEG:STAINLESS STEEL IN CHAMPAGNE GOLD."	"https://www.alhuzaifa.com/shop/cataleya-side-board-marble/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/3-2.jpg"	in stock	New				11350		"WALNUT+CHAMPAGNE GOLD."		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/2-3.jpg	8510															
+"3328"	3327	CHIARA ROUND DINING TABLE	"TOP IN MDF SMOKED OAK VENEER.
+
+BASE POWDER COATED STAINLESS STEEL IN MATT BLACK."	"https://www.alhuzaifa.com/shop/chiara-round-dining-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-3.jpg"	in stock	New				6910		"Smoke Oak + Black"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			5180															
+"3329"	3327	CHIARA ROUND DINING TABLE	"TOP IN MDF SMOKED OAK VENEER.
+
+BASE POWDER COATED STAINLESS STEEL IN MATT BLACK."	"https://www.alhuzaifa.com/shop/chiara-round-dining-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-3.jpg"	in stock	New				6910		"Smoke Oak + Black"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			5180															
+"3336"		EPPIE DIING TABLE	"Plywood with Veneer top in Espresso Oak
+304 Stainless Steel Brushed Yellow Gold."	"https://www.alhuzaifa.com/shop/eppie-diing-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/al-huzafia-july-616760-1.jpg"	in stock	New				9400		"Espresso Oak+Yellow gold"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/al-huzafia-july-616774-1-scaled.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/al-huzafia-july-616775-1-scaled.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/al-huzafia-july-616779-1-scaled.jpg	4980															
+"3338"		HOWARD DINING CHAIR	"INNER FRAME in PLYWOOD .
+
+LEG IN AMERICAN ASH WOOD STAINED IN WALNUT.
+
+FULLY UPHOLSTERED IN PVC."	"https://www.alhuzaifa.com/shop/howard-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/36-2.jpg"	in stock	New				870		"Beige"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/32-1-1.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/35-2.jpg	650															
+"3346"		HYADD DINING CHAIR	"RUBBERWOOD STAINED IN STILO WALNUT.
+UPHOLSTERED IN FABRIC"	"https://www.alhuzaifa.com/shop/hyadd-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/HYADD-STYLO-WALNUT-5.jpg"	in stock	New				455		"STILO WALNUT"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/HYADD-STYLO-WALNUT-4.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/HYADD-STYLO-WALNUT-6.jpg	340															
+"3350"	3348	ICON DINING CHAIR	"STAINLESS STEEL 304# IN YELLOW COPPER
+
+FULLY UPHOLSTERED IN FABRIC"	"https://www.alhuzaifa.com/shop/icon-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/19-1-1.jpg"	in stock	New				1550		"Beige"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1160															
+"3349"	3348	ICON DINING CHAIR	"STAINLESS STEEL 304# IN YELLOW COPPER
+
+FULLY UPHOLSTERED IN FABRIC"	"https://www.alhuzaifa.com/shop/icon-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/ICON-LIGHT-GREY-YELLOW-COPPER-2.jpg"	in stock	New				1550		"Light Beige"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1160															
+"3351"		IRINA DINING TABLE	"LEGS AND BASE FRAME IN BROWN OAK
+
+TOP IN SMOKED OAK VENEER."	"https://www.alhuzaifa.com/shop/irina-dining-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/3I2A1450.jpg"	in stock	New				9420		"Smoked Walnut"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			3768															
+"3355"	3353	JARED DINING CHAIR	"High Density PU Sponge
+Hard Chinese Pine and Plywood
+304# Stainless Steel IN ANTIQUE BRASS
+FULLY UPHOLSTERED IN FABRIC"	"https://www.alhuzaifa.com/shop/jared-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/JARED-BRUSHED-YELLOW-GOLD-RUBINO-TAUPE-2.jpg"	in stock	New				2020		"Rubino Taupe + Brushed Yellow Gold"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1515															
+"3356"	3353	JARED DINING CHAIR	"High Density PU Sponge
+Hard Chinese Pine and Plywood
+304# Stainless Steel IN ANTIQUE BRASS
+FULLY UPHOLSTERED IN FABRIC"	"https://www.alhuzaifa.com/shop/jared-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/30-1.jpg"	in stock	New				2020		"Rubino Taupe + Lux Titanium"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1515															
+"3354"	3353	JARED DINING CHAIR	"High Density PU Sponge
+Hard Chinese Pine and Plywood
+304# Stainless Steel IN ANTIQUE BRASS
+FULLY UPHOLSTERED IN FABRIC"	"https://www.alhuzaifa.com/shop/jared-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/30-1.jpg"	in stock	New				2020		"Rubino Taupe + Antique Brass"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1515															
+"3357"		JERSEY DINING TABLE 3M	"TOP IN OAK VENEER STAINED IN BROWN OAK
+
+STAINLESS STEEL 304# BASE FRAME IN BRUSHED BRASS."	"https://www.alhuzaifa.com/shop/jersey-dining-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/5-5.jpg"	in stock	New				9960		"Brown Oak"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/JERSY-2.jpg	7470															
+"3363"		KATHERINE DINING TABLE NEW	"FRAME IN SOLID WOOD ALL COATED WITH DARK WALNUT VENEER.
+METAL PARTS IN 304 GRADE STAINLESS STEEL IN BRUSHED GOLD."	"https://www.alhuzaifa.com/shop/katherine-dining-table-new/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/web-banner-1000X700-5.jpg"	in stock	New				18260		"Dark Walnut"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/Katherine3.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/Katherine2.jpg	13695															
+"3371"	3369	KEEGAN DINING CHAIR	"INNER FRAME IN PLYWOOD.
+
+LEGS IN AMERICAN ASHWOOD IN WALNUT.
+
+FULLY UPHOLSTERED IN PVC."	"https://www.alhuzaifa.com/shop/keegan-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/27-3-1.jpg"	in stock	New				1250		"Brown"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			935															
+"3370"	3369	KEEGAN DINING CHAIR	"INNER FRAME IN PLYWOOD.
+
+LEGS IN AMERICAN ASHWOOD IN WALNUT.
+
+FULLY UPHOLSTERED IN PVC."	"https://www.alhuzaifa.com/shop/keegan-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/KEEGAN-WALNUT-BEIGE-1.jpg"	in stock	New				1250		"Beige"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			935															
+"3372"		KEEGAN DINING TABLE GLASS TOP	"TOP IN 15MM TEMPERED GLASS
+
+BASE LEGS IN AMERICAN ASHWOOD IN WALNUT
+
+STAINLESS STEEL BASE IN GUN METAL"	"https://www.alhuzaifa.com/shop/keegan-dining-table-glass-top/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/keegan-dining.jpg"	in stock	New				17000		"Glass + Walnut"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			12750															
+"3374"		KEEGAN CONSOLE MARBLE	"TOP IN ROMANTIC NATURAL MARBLE
+
+CABINET IN MDF + WALNUT VEENER
+
+LEG:STAINLESS STEEL IN GUN METAL"	"https://www.alhuzaifa.com/shop/keegan-side-board-marble/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/06/4.jpg"	in stock	New				6840		"WALNUT"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			5130															
+"3378"	3376	KELVIN DINING CHAIR	"High Density PU Sponge Hard Chinese Pine and Plywood
+304# Stainless Steel IN Antique Bronze
+Fully upholstered in Fabric"	"https://www.alhuzaifa.com/shop/kelvin-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/9-2-1.jpg"	in stock	New				2440		"Polo Muslin Antique Brass Yellow"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1830															
+"3377"	3376	KELVIN DINING CHAIR	"High Density PU Sponge Hard Chinese Pine and Plywood
+304# Stainless Steel IN Antique Bronze
+Fully upholstered in Fabric"	"https://www.alhuzaifa.com/shop/kelvin-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/KELVIN-POLO-STONE-3.jpg"	in stock	New				2440		"Polo Club Stone Antique Bronze"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1830															
+"3387"	3385	MIA DINING CHAIR	"304# GRADE STAINLESS STEEL IN BRUSHED GOLD
+UPHOLSTERED WITH HIGH QUALITY PU."	"https://www.alhuzaifa.com/shop/mia-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-DC-8.jpg"	in stock	New				3535		"White"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			2650															
+"3386"	3385	MIA DINING CHAIR	"304# GRADE STAINLESS STEEL IN BRUSHED GOLD
+UPHOLSTERED WITH HIGH QUALITY PU."	"https://www.alhuzaifa.com/shop/mia-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-DC-7.jpg"	in stock	New				3535		"Grey"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			2650															
+"3389"	3388	MICHELA DINING CHAIR	"INNER FRAME IN PLYWOOD .
+
+LEG AND ARMS IN AMERICAN ASH WOOD IN WALNUT.
+
+FULLY UPHOLSTERED IN PVC QUILTED DESIGN IN OUTER BACK."	"https://www.alhuzaifa.com/shop/michela-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/10-4.jpg"	in stock	New				1100		"Brown"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			825															
+"3392"		MICHELA DINING TABLE	"TOP IN ROSE GOLD NATURAL MARBLE
+
+LEG IN AMERICAN ASH WOOD IN WALNUT.
+
+STAINLESS STEEL IN CHAMPAGNE GOLD"	"https://www.alhuzaifa.com/shop/michela-dining-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/Table.jpg"	in stock	New				14500		"WALNUT"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-8.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/Dinning.jpg	10875															
+"3394"		MIKAEL SIDE CHAIR	"INNER FRAME IN PLYWOOD
+
+LEG IN AMERICAN ASH WOOD INN WALNUT
+
+UPHOLSTERED IN FULL PVC"	"https://www.alhuzaifa.com/shop/mikael-side-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/20-2.jpg"	in stock	New				1025		"Grey"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/17-1.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/18-1.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/21-3.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/22.jpg	765															
+"3396"		MIRREN DINING TABLE	"304# Stainless Steel IN LUX MOON DUST
+GREY Porcelain TOP"	"https://www.alhuzaifa.com/shop/mirren-dining-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/mirren-dining.jpg"	in stock	New				9760		"Grey"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/3I2A5316-1.jpg	7320															
+"3398"		MIRREN SIDE BOARD	"304# Stainless Steel IN LUX MOON DUST
+
+ALL WOODEN PARTS IN Smoke Oak
+
+GREY PORCELAIN TOP"	"https://www.alhuzaifa.com/shop/mirren-side-board/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/3I2A5315-1.jpg"	in stock	New				11650		"Smoked Oak"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			8735															
+"3407"		NORTON DINING CHAIR	"Catalpa wood IN WALNUT
+
+FULLY UPHOLSTERED IN BONDED LEATHER"	"https://www.alhuzaifa.com/shop/norton-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/29-2.jpg"	in stock	New				1185		"Orange + Walnut"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/30-1-1.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/31-1-1.jpg	825															
+"3411"	3409	NOVANE DINING CHAIR	"Catalpa wood IN BROWN OAK
+
+FULLY UPHOLSTERED IN BONDED LEATHER."	"https://www.alhuzaifa.com/shop/novane-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/38-1.jpg"	in stock	New				1800		"Grey + Walnut"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			575															
+"3410"	3409	NOVANE DINING CHAIR	"Catalpa wood IN BROWN OAK
+
+FULLY UPHOLSTERED IN BONDED LEATHER."	"https://www.alhuzaifa.com/shop/novane-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/NOVANE-BROWN-OAK-GREY-2.jpg"	in stock	New				1800		"Grey + Brown Oak"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			575															
+"3414"	3412	ORABELLA DINING CHAIR	"LEG IN AMERICAN ASH WOOD IN WALNUT.
+
+OUTER BACK IN PVC AND INNER BAC IN FABRIC."	"https://www.alhuzaifa.com/shop/orabella-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/ORABELLA-WALNUT-BEIGE-3.jpg"	in stock	New				1190		"Grey"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			890															
+"3413"	3412	ORABELLA DINING CHAIR	"LEG IN AMERICAN ASH WOOD IN WALNUT.
+
+OUTER BACK IN PVC AND INNER BAC IN FABRIC."	"https://www.alhuzaifa.com/shop/orabella-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/43-1.jpg"	in stock	New				1190		"Light Beige + Walnut"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			890															
+"3415"		PHILIP DINING CHAIR	"High Density PU Sponge.
+Hard Chinese Pine and Plywood.
+304# Stainless Steel IN LUX TITANIUM.
+
+FULLY UPHOLSTERED IN FABRIC"	"https://www.alhuzaifa.com/shop/philip-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-DC-20.jpg"	in stock	New				1575		"Polo Stone"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-DC-19.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-DC-13.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-DC-11.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-DC-10.jpg	1180															
+"3419"	3417	REINA DINING TABLE	"TOP IN AMAN ROSE NATURAL MARBLE.
+
+LEG IN AMERICAN ASH WOOD IN WALNUT
+
+STAINLESS STEEL IN CHAMPAGNE GOLD."	"https://www.alhuzaifa.com/shop/reina-dining-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/reina-dining.jpg"	in stock	New				17200		"Rose Gold Marble"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			12900															
+"3418"	3417	REINA DINING TABLE	"TOP IN AMAN ROSE NATURAL MARBLE.
+
+LEG IN AMERICAN ASH WOOD IN WALNUT
+
+STAINLESS STEEL IN CHAMPAGNE GOLD."	"https://www.alhuzaifa.com/shop/reina-dining-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/REINA-AMAN-ROSE.jpg"	in stock	New				14900		"Amana Rose Marble"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			11175															
+"3423"		ROBERT DINING TABLE	"TOP IN ONXY NATURAL MARBLE
+
+LEG IN AMERICAN ASHWOOD
+
+STAINLESS STEEL IN CHAMPAGNE GOLD"	"https://www.alhuzaifa.com/shop/robert-dining-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/13.jpg"	in stock	New				20990		"White Onyx"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/12-1.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/13-1.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/14-1.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/15-1.jpg	15740															
+"3430"		SAVINA DININGTABLE	"TOP IN AMANA ROSE NATURAL MARBLE.
+
+LEG IN AMERICAN ASHWOOD IN WALNUT.
+
+STAINLESS STEEL IN CHAMPAGNE GOLD."	"https://www.alhuzaifa.com/shop/savina-diningtable/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/web-banner-7-1000X700.jpg"	in stock	New				17300		"Amana Rose + Walnut"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/1000-x-700-10.jpg	12975															
+"3441"		SHAYLA SIDE BOARD	"Full cabinet in MDF covered with walnut veneer.
+
+Stainless steel base frame in brass brushed finish."	"https://www.alhuzaifa.com/shop/shayla-side-board/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/SHAYLA-NEW-GOLD-2.jpg"	in stock	New				5260		"Walnut + Brass Brushed"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/SHAYLA-NEW-GOLD-1.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/SHAYLA-NEW-GOLD-3.jpg	3945															
+"3443"		TEDDY DINING CHAIR	"FULLY UPHOLSTERED IN PVC.
+
+SWIVEL FUNCTION IN CHAIR
+
+STAINLESS STEEL IN BRASS BRUSHED FINISH."	"https://www.alhuzaifa.com/shop/teddy-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/2-5.jpg"	in stock	New				1195		"Dark Beige"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/3-4.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/1-7.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/4-4.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/6-5.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/7-6.jpg	895															
+"3445"		TERRENCE DINING CHAIR	"INNER FRAME IN PLYWOOD.
+LEGS AND BACK IN AMERICAN ASHWOOD IN DARK WALNUT"	"https://www.alhuzaifa.com/shop/terrence-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/TERRENCE-DARK-WALNUT-2.jpg"	in stock	New				885		"Dark Walnut"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/TERRENCE-DARK-WALNUT-1.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/TERRENCE-DARK-WALNUT-3.jpg	615															
+"3447"		TRAPEZOID DINING TABLE	"Top in Plywood with Veneer in Espresso Oak.
+Legs in Wood in Lux Titanium."	"https://www.alhuzaifa.com/shop/trapezoid-dining-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/12.jpg"	in stock	New				5850		"Smoke Oak"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			4385															
+"3449"		TRAPEZOID SIDEBOARD	"MDF + PLYWOOD WITH VENEER IN Espresso Oak.
+Legs in Lux Wood Titanium."	"https://www.alhuzaifa.com/shop/trapezoid-sideboard/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/11.jpg"	in stock	New				8370		"Smoke Oak + Lux Titanium"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/26-1.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/27-2.jpg	6275															
+"3455"	3453	TRAVOLTA DINING CHAIR	"Seat and backrest covered with fabric.
+
+Base stainless steel in brass brushed"	"https://www.alhuzaifa.com/shop/travolta-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/TRAVOLTA-BLACK-AND-WHITE-2.jpg"	in stock	New				1510		"Black White"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1130															
+"3454"	3453	TRAVOLTA DINING CHAIR	"Seat and backrest covered with fabric.
+
+Base stainless steel in brass brushed"	"https://www.alhuzaifa.com/shop/travolta-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/15-1-1.jpg"	in stock	New				1510		"Beige"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1130															
+"3459"		TRISTAN SIDE BOARD	"MDF covered with American walnut veneer.
+
+The groove lacquered in matte gray color.
+
+Inside of door and legs lacquered in matte gray color."	"https://www.alhuzaifa.com/shop/tristan-side-board/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/TRISTAN-2.jpg"	in stock	New				4680		"Walnut + Matt Grey"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/TRISTAN-1.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/TRISTAN-3.jpg	1400															
+"3462"	3461	TURIN DINING CHAIR	"Ash wood in Smoke Oak
+
+Fully upholstered in bonded leather"	"https://www.alhuzaifa.com/shop/turin-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/TURIN-SMOKE-OAK-GREY-2.jpg"	in stock	New				1795		"Smoke Oak + Grey"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1345															
+"3463"	3461	TURIN DINING CHAIR	"Ash wood in Smoke Oak
+
+Fully upholstered in bonded leather"	"https://www.alhuzaifa.com/shop/turin-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/TURIN-WALNUT-BEIGE-2.jpg"	in stock	New				1795		"Walnut + Beige"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1345															
+"3464"		WESLEY DINING TABLE	"TOP IN 15MM TEMPERED GLASS.
+
+BASE IN AMERICAN ASH WOOD IN WALNUT."	"https://www.alhuzaifa.com/shop/wesley-dining-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-28-at-4.53.52-PM.jpeg"	in stock	New				6825		"Glass top + Walnut"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			5110															
+"3466"		WESLEY DINING CHAIR	"INNER FRAME IN PLYWOOD.
+
+FULLY UPHOLSTERED IN PVC.
+
+LEG AND FRAME AMERICAN ASH WOOD."	"https://www.alhuzaifa.com/shop/wesley-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/16-2.jpg"	in stock	New				790		"WALNUT"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/05/15-2.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/05/16-3.jpg	590															
+"3468"		WESLEY LOBBY TABLE	"TOP IN 15MM TEMPERED GLASS.
+
+BASE IN AMERICAN ASH WOOD IN WALNUT."	"https://www.alhuzaifa.com/shop/wesley-lobby-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/05/Wesley.jpg"	in stock	New				4350		"Glass top + Walnut"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			3260															
+"3504"		LA DIVA 4 DOOR CELLARET	"MATERIAL / FINISH 
+
+MDF PAINTED WHITE + GOLD.
+
+CLEAR GLASS FOR DOORS AND SHELVES."	"https://www.alhuzaifa.com/shop/la-diva-4-door-cellaret/"		in stock	New				8715		"WHITE + GOLD"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			6536															
+"9124"		EASTWOOD DINING CHAIR	"NATURAL ASH WOOD IN WALNUT .
+UPHOLSTERED IN PVC.
+
+&nbsp;"	"https://www.alhuzaifa.com/shop/eastwood-dining-chair-beige-walnut/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/06/2-3.jpg"	in stock	New				1010		"Beige + Walnut"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/06/1-2.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/06/3-3.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/06/4-4.jpg	755															
+"9126"	9125	MOSAIC DINING CHAIR	"MOSAIC DINING CHAIR"	"https://www.alhuzaifa.com/shop/mosaic-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/06/8-2.jpg"	in stock	New				1885		"LIGHT BEIGE + COPPER"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1410															
+"9127"	9125	MOSAIC DINING CHAIR	"MOSAIC DINING CHAIR"	"https://www.alhuzaifa.com/shop/mosaic-dining-chair/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/06/8-2.jpg"	in stock	New				1885		"BEIGE + COPPER"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"			1410															
+"9449"		JERSEY DINING TABLE CERAMIC	"Top in Ceramic marble on MDF ,
+Base Frame with stainless steel in 304# Stainless Steel Brush Brass Color."	"https://www.alhuzaifa.com/shop/jersey-dining-table-ceramic/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/07/14.jpg"	in stock	New				12900				"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"	"WHITE CERAMIC + SMOKY WALNUT + BRUSH BRASS"		9675															
+"9450"		VALENTINO DINING TABLE	"12mm clear glass top tempered, facing board lacquered in black walnut , 304# Stainless Steel in yellow copper plating brushed."	"https://www.alhuzaifa.com/shop/valentino-dining-table/"	"https://www.alhuzaifa.com/wp-content/uploads/2020/07/al-huzafia-july-616982-1.jpg"	in stock	New				10420		"CLEAR GLASS +BLACK WALNUT + YELLOW COPPER"		"Furniture > Carts & Islands > Kitchen & Dining Carts"	"Furniture > Carts & Islands > Kitchen & Dining Carts"		https://www.alhuzaifa.com/wp-content/uploads/2020/07/al-huzafia-july-616983-1.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/07/al-huzafia-july-616989.jpg,https://www.alhuzaifa.com/wp-content/uploads/2020/07/al-huzafia-july-616986-1-scaled.jpg	7815															

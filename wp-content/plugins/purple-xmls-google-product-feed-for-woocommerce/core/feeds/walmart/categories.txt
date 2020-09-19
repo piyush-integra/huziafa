@@ -1,0 +1,95 @@
+Animal
+Animal > AnimalHealthAndGrooming
+Animal > AnimalAccessories
+Animal > AnimalFood
+Animal > AnimalEverythingElse
+ArtAndCraft
+Baby
+Baby > BabyFood
+Baby > BabyOther
+Baby > ChildCarSeats
+Baby > BabyFurniture
+Baby > BabyToys
+Baby > BabyClothing
+CarriersAndAccessories
+CarriersAndAccessories > CasesAndBags
+CarriersAndAccessories > CarriersAndAccessories
+Clothing
+Electronics
+Electronics > VideoGames
+Electronics > VideoProjectors
+Electronics > ElectronicsAccessories
+Electronics > ComputerComponents
+Electronics > ElectronicsCables
+Electronics > Software
+Electronics > Computers
+Electronics > TVsAndVideoDisplays
+Electronics > CellPhones
+Electronics > PrintersScannersAndImaging
+Electronics > ElectronicsOther
+FoodAndBeverage
+FoodAndBeverage > AlcoholicBeverages
+FoodAndBeverageFoodAndBeverage > FoodAndBeverage
+Footwear
+Furniture
+GardenAndPatio
+GardenAndPatio > GrillsAndOutdoorCooking
+GardenAndPatio > GardenAndPatio
+HealthAndBeauty > MedicalAids
+HealthAndBeauty > Optical
+HealthAndBeauty > MedicineAndSupplements
+HealthAndBeauty > HealthAndBeautyElectronics
+HealthAndBeauty > PersonalCare
+Home
+Home > Bedding
+Home > LargeAppliances
+Home > HomeOther
+Jewelry
+Media
+Media > Movies
+Media > TVShows
+Media > Music
+Media > BooksAndMagazines
+MusicalInstrument
+MusicalInstrument > MusicCasesAndBags
+MusicalInstrument > SoundAndRecording
+MusicalInstrument > MusicalInstruments
+MusicalInstrument > InstrumentAccessories
+OccasionAndSeasonal
+OccasionAndSeasonal > Funeral
+OccasionAndSeasonal > DecorationsAndFavors
+OccasionAndSeasonal > CeremonialClothingAndAccessories
+OccasionAndSeasonal > Costumes
+OccasionAndSeasonal > GiftSupplyAndAwards
+Office
+Other
+Other > Storage
+Other > giftCards
+Other > CleaningAndChemical
+Other > safetyAndEmergency
+Other > fuelsAndLubricants
+Photography
+Photography > CamerasAndLenses
+Photography > PhotoAccessories
+SportAndRecreation
+SportAndRecreation > Cycling
+SportAndRecreation > Weapons
+SportAndRecreation > Optics
+SportAndRecreation > SportAndRecreationOther
+ToolsAndHardware
+ToolsAndHardware > BuildingSupply
+ToolsAndHardware > Electrical
+ToolsAndHardware > Hardware
+ToolsAndHardware > PlumbingAndHVAC
+ToolsAndHardware > Tools
+ToolsAndHardware > ToolsAndHardwareOther
+Toys
+Toys > Toys
+Vehicle
+Vehicle > Tires
+Vehicle > LandVehicles
+Vehicle > VehiclePartsAndAccessories
+Vehicle > WheelsAndWheelComponents
+Vehicle > VehicleOther
+Vehicle > Watercraft
+Watches

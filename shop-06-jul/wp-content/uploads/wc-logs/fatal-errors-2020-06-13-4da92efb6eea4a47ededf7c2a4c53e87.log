@@ -1,0 +1,32 @@
+2020-06-13T17:04:12+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/alhuzaifa/public_html/wp-content/themes/rey-child/functions.php:197
+Stack trace:
+#0 /home/alhuzaifa/public_html/wp-includes/class-wp-hook.php(289): iconic_template_loop_add_to_cart('<span class="wo...')
+#1 /home/alhuzaifa/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(167): apply_filters('woocommerce_var...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(625): WC_Product_Variable->get_price_html()
+#4 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version3/class-wc-rest-products-controller.php(1332): WC_REST_Products_V2_Controller->get_product_data(Object(WC_Product_Variable), 'vie in /home/alhuzaifa/public_html/wp-content/themes/rey-child/functions.php on line 197
+
+2020-06-13T17:04:12+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/alhuzaifa/public_html/wp-content/themes/rey-child/functions.php:197
+Stack trace:
+#0 /home/alhuzaifa/public_html/wp-includes/class-wp-hook.php(289): iconic_template_loop_add_to_cart('<span class="wo...')
+#1 /home/alhuzaifa/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(167): apply_filters('woocommerce_var...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(625): WC_Product_Variable->get_price_html()
+#4 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version3/class-wc-rest-products-controller.php(1332): WC_REST_Products_V2_Controller->get_product_data(Object(WC_Product_Variable), 'vie in /home/alhuzaifa/public_html/wp-content/themes/rey-child/functions.php on line 197
+
+2020-06-13T17:04:44+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/alhuzaifa/public_html/wp-content/themes/rey-child/functions.php:197
+Stack trace:
+#0 /home/alhuzaifa/public_html/wp-includes/class-wp-hook.php(289): iconic_template_loop_add_to_cart('<span class="wo...')
+#1 /home/alhuzaifa/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(167): apply_filters('woocommerce_var...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(625): WC_Product_Variable->get_price_html()
+#4 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version3/class-wc-rest-products-controller.php(1332): WC_REST_Products_V2_Controller->get_product_data(Object(WC_Product_Variable), 'vie in /home/alhuzaifa/public_html/wp-content/themes/rey-child/functions.php on line 197
+
+2020-06-13T17:04:44+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/alhuzaifa/public_html/wp-content/themes/rey-child/functions.php:197
+Stack trace:
+#0 /home/alhuzaifa/public_html/wp-includes/class-wp-hook.php(289): iconic_template_loop_add_to_cart('<span class="wo...')
+#1 /home/alhuzaifa/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(167): apply_filters('woocommerce_var...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(625): WC_Product_Variable->get_price_html()
+#4 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version3/class-wc-rest-products-controller.php(1332): WC_REST_Products_V2_Controller->get_product_data(Object(WC_Product_Variable), 'vie in /home/alhuzaifa/public_html/wp-content/themes/rey-child/functions.php on line 197
+

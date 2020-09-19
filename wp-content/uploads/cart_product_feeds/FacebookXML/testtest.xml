@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>testtest</title>
+    <link><![CDATA[https://www.alhuzaifa.com/wp-content/uploads/cart_product_feeds/FacebookXML/testtest.xml]]></link>
+    <description>testtest</description><item>
+        <g:id>3372</g:id>
+        <g:availability>in stock</g:availability>
+        <g:condition>New</g:condition>
+        <g:description><![CDATA[TOP IN 15MM TEMPERED GLASS
+
+BASE LEGS IN AMERICAN ASHWOOD IN WALNUT
+
+STAINLESS STEEL BASE IN GUN METAL]]></g:description>
+        <g:image_link><![CDATA[https://www.alhuzaifa.com/wp-content/uploads/2020/05/keegan-dining.jpg]]></g:image_link>
+        <g:link><![CDATA[https://www.alhuzaifa.com/shop/keegan-dining-table-glass-top/]]></g:link>
+        <g:title><![CDATA[KEEGAN DINING TABLE GLASS TOP]]></g:title>
+        <g:price>17000.00 AED</g:price>
+        <g:mpn>DINDT-19048-2-GLAS</g:mpn>
+        <g:color><![CDATA[Glass + Walnut]]></g:color>
+        <g:google_product_category><![CDATA[Animals & Pet Supplies]]></g:google_product_category>
+        <g:sale_price>12750.00 AED</g:sale_price>
+        <description>12750</description></item>
+  </channel>
+</rss>

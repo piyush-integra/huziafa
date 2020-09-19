@@ -1,0 +1,1 @@
+var doPolyfills=function(){jQuery.getScript(reyPolyfills.url+reyPolyfills.css_vars[reyPolyfills.css_vars_use],function(){"function"==typeof cssVars&&cssVars()})};"always"===reyPolyfills.method?doPolyfills():"request"===reyPolyfills.method&&(window.CSS&&window.CSS.supports&&window.CSS.supports("(--foo: red)")||doPolyfills());

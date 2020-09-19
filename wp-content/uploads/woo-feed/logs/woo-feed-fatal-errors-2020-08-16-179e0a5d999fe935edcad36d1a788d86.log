@@ -1,0 +1,40 @@
+2020-08-16T00:42:33+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T01:41:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 585728 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T02:41:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T03:41:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T04:41:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T06:41:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T07:41:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 585728 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T08:41:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 573440 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T10:41:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T11:41:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 585728 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T12:41:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T13:41:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T15:41:25+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T16:41:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T17:41:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T18:41:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T19:41:25+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T20:41:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T21:41:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+
+2020-08-16T22:41:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) in /home/shopalhuzaifa/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/includes/classes/class-woo-feed-products-v3.php on line 514
+

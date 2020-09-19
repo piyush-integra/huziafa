@@ -1,0 +1,37 @@
+
+---Downloaded files---
+The import files for: Frankfurt were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://huzaifaweb.nexatestwp.com
+Data file = /home/nexatestwp/public_html/huzaifaweb/wp-content/uploads/2020/05/demo-content-import-file_2020-05-05__07-24-35.xml
+Widget file = /home/nexatestwp/public_html/huzaifaweb/wp-content/uploads/2020/05/demo-widgets-import-file_2020-05-05__07-24-35.json
+Customizer file = /home/nexatestwp/public_html/huzaifaweb/wp-content/uploads/2020/05/demo-customizer-import-file_2020-05-05__07-24-35.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Error: Widget import data could not be read. Please try a different file.
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing Theme Config---
+The config file was successfully parsed!
+
+---Importing Theme Config---
+The processes: rey-theme, options, pages, remove_pages, nav, upload-path, source-path, woocommerce-attributes, elements_manager were added.
+
+---pt-ocdi/after_import---
+
+
+---End---
+Time elapsed to import - 00:01:06 .

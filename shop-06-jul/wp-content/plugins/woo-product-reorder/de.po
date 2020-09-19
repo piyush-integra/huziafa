@@ -1,0 +1,28 @@
+# Copyright (C) 2019 Gangesh Matta
+# This file is distributed under the same license as the Xonja Product Reorder plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Product Reorder\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/Xonja-product-"
+"reorder\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-05-27T12:52:56+05:30\n"
+"PO-Revision-Date: 2019-05-27 13:17+0530\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Domain: wc-reorder;\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+#. Plugin Name of the plugin
+#. Description of the plugin
+msgid "Woocommerce Product Reorder"
+msgstr "Yes jj ikikik"
+
+#. Author of the plugin
+#, fuzzy
+msgid "Gangesh Matta"
+msgstr "Bkonj kppo"

@@ -1,0 +1,1 @@
+[31-Aug-2020 11:34:05 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/shopalhuzaifa/public_html/test/price.php on line 6

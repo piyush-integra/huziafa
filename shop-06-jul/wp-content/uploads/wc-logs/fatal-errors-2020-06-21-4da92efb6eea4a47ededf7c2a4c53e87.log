@@ -1,0 +1,10 @@
+2020-06-21T07:49:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function woocommerce_output_related_products_custom(), 1 passed in /home/alhuzaifa/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 3 expected in /home/alhuzaifa/public_html/wp-content/themes/rey-child/functions.php:496
+Stack trace:
+#0 /home/alhuzaifa/public_html/wp-includes/class-wp-hook.php(287): woocommerce_output_related_products_custom('')
+#1 /home/alhuzaifa/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/alhuzaifa/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/templates/content-single-product.php(72): do_action('woocommerce_aft...')
+#4 /home/alhuzaifa/public_html/wp-includes/template.php(725): require('/home/alhuzaifa...')
+#5 /home/alhuzaifa/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(197): load_template('/home/alhuzaifa...', false)
+#6 /home/alhuzaifa/public_html/wp-content/plugins/w in /home/alhuzaifa/public_html/wp-content/themes/rey-child/functions.php on line 496
+

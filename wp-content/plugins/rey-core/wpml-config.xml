@@ -1,0 +1,18 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">rey-global-sections</custom-type>
+    </custom-types>
+    <admin-texts>
+        <key name="footer_copyright"/>
+        <key name="search_suggestions"/>
+        <key name="product_info_content"/>
+        <key name="header_account_text"/>
+        <key name="header_account_text_logged_in"/>
+        <key name="header_cart_text"/>
+        <key name="single_product_page_related_title"/>
+        <key name="single_product_price_text_custom"/>
+        <key name="estimated_delivery__prefix"/>
+        <key name="custom_price_range"/>
+        <key name="loop_featured_badge__text"/>
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,94 @@
+# Smartling directives
+# smartling.placeholder_format_custom = %[sducoxXbgGeEfF]
+
+# Copyright (C) 2017 Criteo
+# This file is distributed under the same license as the Criteo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Criteo 1.0\n"
+"Report-Msgid-Bugs-To: http://www.criteo.com/\n"
+"POT-Creation-Date: 2017-09-01 07:31:18+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  criteo.pot (Criteo 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  criteo.pot (Criteo 1.0)  #-#-#-#-#
+#. Author of the plugin/theme
+#: settings/CriteoPluginSettingsUI.php:30
+msgid "Criteo"
+msgstr "Criteo"
+
+#: settings/CriteoPluginSettingsUI.php:66
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: settings/CriteoPluginSettingsUI.php:71
+msgid "Enter your Partner ID"
+msgstr "Ingrese su identificador de socio."
+
+#: settings/CriteoPluginSettingsUI.php:73
+msgid "Please contact Criteo commercial contact if Partner ID is not provided."
+msgstr "Póngase en contacto con su contacto comercial en Criteo si no se brindó el identificador de socio."
+
+#: settings/CriteoPluginSettingsUI.php:78
+msgid "Use SKU for Product ID"
+msgstr "Use el SKU para el identificador de productos."
+
+#: settings/CriteoPluginSettingsUI.php:80
+msgid ""
+"If you are enabling this option please make sure your are sending SKUs in "
+"Criteo OneTag for your products."
+msgstr "Si va a activar esta opción, asegúrese de mandar los SKU en Criteo OneTag para sus productos."
+
+#: settings/CriteoPluginSettingsUI.php:89
+msgid "Product feed credentials"
+msgstr "Credenciales del catálogo de productos"
+
+#: settings/CriteoPluginSettingsUI.php:92
+msgid "Login"
+msgstr "Inicio de sesión"
+
+#: settings/CriteoPluginSettingsUI.php:94
+#: settings/CriteoPluginSettingsUI.php:102
+msgid "This is used by Criteo for retrieving product feed."
+msgstr "Criteo lo utiliza para recuperar el catálogo de productos."
+
+#: settings/CriteoPluginSettingsUI.php:100
+msgid "Password"
+msgstr "Contraseña"
+
+#: settings/CriteoPluginSettingsUI.php:111
+msgid "Sample catalog feed"
+msgstr "Muestra del catálogo de productos"
+
+#: settings/CriteoPluginSettingsUI.php:118
+msgid "Wordpress tested versions (major releases):"
+msgstr "Versiones probadas de Wordpress (principales lanzamientos):"
+
+#: settings/CriteoPluginSettingsUI.php:126
+msgid "WooCommerce tested versions (major releases):"
+msgstr "Versiones probadas de WooCommerce (principales lanzamientos):"
+
+#: settings/WooCommerceExtension.php:34
+msgid "Your major version %s was tested with current version of plugin."
+msgstr "El %s de su versión principal no fue probado con la versión actual del plugin."
+
+#: settings/WooCommerceExtension.php:38
+msgid "Your major version %s was not tested with current version of plugin."
+msgstr "El %s de su versión principal no fue probado con la versión actual del plugin."
+
+#. #-#-#-#-#  criteo.pot (Criteo 1.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  criteo.pot (Criteo 1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.criteo.com/"
+msgstr "http://www.criteo.com/"
+
+#. Description of the plugin/theme
+msgid "Official Criteo plugin to setup your product feed and Criteo OneTag."
+msgstr "Plugin oficial de Criteo para configurar su catálogo de productos y Criteo OneTag."

@@ -1,0 +1,8 @@
+[08-Jul-2020 01:10:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shopalhuzaifa/public_html/wp-content/themes/rey/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shopalhuzaifa/public_html/wp-content/themes/rey/index.php on line 15
+[08-Aug-2020 00:55:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shopalhuzaifa/public_html/wp-content/themes/rey/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shopalhuzaifa/public_html/wp-content/themes/rey/index.php on line 15
