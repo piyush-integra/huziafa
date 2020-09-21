@@ -521,7 +521,7 @@ function woocommerce_output_related_products_custom()
 {
     $relative_product = '';
     $relative_product        = get_field('select_relative_products'); ?>
-    <?php if ($relative_product) { ?><h2 class="relativehead">Related products</h2> <?php } ?>
+    <!-- <?php if ($relative_product) { ?><h2 class="relativehead">Related products</h2> <?php } ?> -->
 
     <?php if ($relative_product) { ?>
         <h2 class="relativehead">Related products</h2> 
