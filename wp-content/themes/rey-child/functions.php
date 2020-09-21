@@ -523,7 +523,7 @@ function woocommerce_output_related_products_custom()
     $relative_product        = get_field('select_relative_products'); ?>
     <?php if ($relative_product) { ?><h2 class="relativehead">Related products</h2> <?php } ?>
 
-    <?php if ($relative_product) { ?>
+    <?php if (!empty($relative_product)) { ?>
         <h2 class="relativehead">Related products</h2> 
         <ul data-cols="3" class=" relativeproduct products columns-tablet-2 columns-mobile-2 rey-wcGap-narrow rey-wcGrid-default columns-3">
             <?php foreach ($relative_product as $key => $product_id_product) {
@@ -539,7 +539,7 @@ function woocommerce_output_related_products_custom()
             <?php } ?>
         </ul>
     <?php } ?>
-    
+
 <?php }
 add_action('woocommerce_before_shop_loop_item_title', 'bbloomer_show_sale_percentage_loop', 25);
 
