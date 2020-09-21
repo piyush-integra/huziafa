@@ -523,22 +523,7 @@ function woocommerce_output_related_products_custom()
     $relative_product        = get_field('select_relative_products'); ?>
     <?php if ($relative_product) { ?><h2 class="relativehead">Related products</h2> <?php } ?>
 
-    <?php if (!empty($relative_product)) { ?>
-        <h2 class="relativehead">Related products</h2> 
-        <ul data-cols="3" class=" relativeproduct products columns-tablet-2 columns-mobile-2 rey-wcGap-narrow rey-wcGrid-default columns-3">
-            <?php foreach ($relative_product as $key => $product_id_product) {
-                global $woocommerce;
-                $product            = new WC_Product($product_id_product);
-                $product_image          = get_the_post_thumbnail_url($product_id_product);
-                $product_permalink      = get_permalink($product_id_product);
-                $product_title          = get_the_title($product_id_product);
-                $product_price          = $product->get_price_html(); ?>
-                <?php $post_object = get_post($product_id_product);
-                setup_postdata($GLOBALS['post'] = &$post_object); ?>
-                <?php wc_get_template_part('content', 'product'); ?>
-            <?php } ?>
-        </ul>
-    <?php } ?>
+   
 
 <?php }
 add_action('woocommerce_before_shop_loop_item_title', 'bbloomer_show_sale_percentage_loop', 25);
