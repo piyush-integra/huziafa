@@ -20,6 +20,7 @@
  * Load styles
  */
 add_action('wp_enqueue_scripts', function () {
+    wp_enqueue_style('rey-wp-custom', get_template_directory_uri() . '/custom.css', false, wp_get_theme()->parent()->get('Version'));
     wp_enqueue_style('rey-wp-style', get_template_directory_uri() . '/style.css', false, wp_get_theme()->parent()->get('Version'));
     wp_enqueue_style('rey-wp-style-child', get_stylesheet_uri());
 });
