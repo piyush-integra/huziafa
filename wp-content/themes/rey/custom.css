@@ -1,3 +1,15 @@
+/* WOO COMMERCE ARABIC CSS */
+
+/*  @import "custom1.css"; */
+
+/* About Us CSS */
+
+@import "custom2.css";
+
+/* Customisation Page CSS */
+
+@import "custom3.css";
+
 html:lang(ar) header {
     direction: rtl;
 }
@@ -10,48 +22,35 @@ html:lang(ar) .elementor-1647 .elementor-element.elementor-element-3022de9 > .el
     margin: 0px 40px 0px 0px;
 }
 
-html:lang(ar) .elementor-11085 .elementor-element.elementor-element-67e8aaa2 > .elementor-widget-container {
-    margin: 0px 0 0px -240px;
-}
-
 html:lang(ar) .elementor-1647 .elementor-element.elementor-element-adc9995 {
 flex-direction: row-reverse;
 
 }
 
-html:lang(ar) .elementor-11027 .elementor-element.elementor-element-670feff > .elementor-container>.elementor-row {
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-670feff > .elementor-container>.elementor-row {
 flex-direction: row-reverse;
 
 }
 
-html:lang(ar) .elementor-11027 .elementor-element.elementor-element-4bc42326  > .elementor-container>.elementor-row {
-flex-direction: row-reverse;
-
-}
-
-html:lang(ar) .elementor-11027 .elementor-element.elementor-element-246d52d8 > .elementor-element-populated {
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-246d52d8 > .elementor-element-populated {
 
 	margin: 0px 0px 0px -240px;
 }
 
-html:lang(ar) .elementor-11027 .elementor-element.elementor-element-67e8aaa2 > .elementor-widget-container{
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-67e8aaa2 > .elementor-widget-container{
 	margin: 0px 0px 0px 0px;
 }
 
-html:lang(ar) .elementor-11027 .elementor-element.elementor-element-2ce9faca > .elementor-element-populated{
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-2ce9faca > .elementor-element-populated{
 	margin: 50px 0px 0px -5px;
 }
 
 
-html:lang(ar) .elementor-11027 .elementor-element.elementor-element-02d823b > .elementor-widget-container{
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-02d823b > .elementor-widget-container{
 	margin: 0px 0px 0px -5px;
 }
 
-
-html:lang(ar) .elementor-11027 .elementor-element.elementor-element-76b57c3 > .elementor-element-populated{
-
-	margin: 0px 0px 0px -30px;
-}
+/* Footer Newsletter CSS Start */
 
 html:lang(ar) form#mc4wp-form-1 .mc4wp-form-fields p {
 flex-direction: row-reverse;
@@ -62,6 +61,15 @@ html:lang(ar) form#mc4wp-form-1 .mc4wp-form-fields p input[type="email"]{
 
 	margin-left: 0px;
 	margin-right: 20px;
+}
+
+
+/* Footer Newsletter CSS End */
+
+/* Instagram Block Home Page*/
+pre{
+border: 0px;
+background-color: #fff;
 }
 
 html:lang(ar) .elementor-1238 .elementor-element.elementor-element-29751a8f > .elementor-container>.elementor-row {

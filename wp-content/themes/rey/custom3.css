@@ -1,0 +1,9 @@
+/* Customisation Page CSS */
+
+
+/* Image Content Block Full Section 1*/
+
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-4bc42326  > .elementor-container>.elementor-row {
+flex-direction: row-reverse;
+
+}
