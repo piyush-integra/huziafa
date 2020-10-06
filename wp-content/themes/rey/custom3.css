@@ -7,3 +7,9 @@ html:lang(ar) .elementor-11069 .elementor-element.elementor-element-4bc42326  > 
 flex-direction: row-reverse;
 
 }
+
+
+/* Banner*/
+html:lang(ar) .elementor-11363 .elementor-element.elementor-element-34ff3e2 > .elementor-container > .elementor-row {
+    flex-direction: row-reverse;
+}

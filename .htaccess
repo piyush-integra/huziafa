@@ -1,5 +1,5 @@
 # BEGIN WpFastestCache
-# Modified Time: 27-09-20 8:27:44
+# Modified Time: 06-10-20 8:29:25
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
@@ -8,9 +8,13 @@ RewriteCond %{HTTP_HOST} ^staging.alhuzaifa.slz.io
 # Start WPFC Exclude
 RewriteCond %{REQUEST_URI} !^/wishlist [NC]
 RewriteCond %{REQUEST_URI} !^/https://www.alhuzaifa.com/wishlist [NC]
+RewriteCond %{REQUEST_URI} !^/wishlist/\?lang=en [NC]
+RewriteCond %{REQUEST_URI} !^/ar/%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d8%b1%d8%ba%d8%a8%d8%a7%d8%aa [NC]
+RewriteCond %{REQUEST_URI} !^/all/wishlist [NC]
+RewriteCond %{REQUEST_URI} !^/ar/all/%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d8%b1%d8%ba%d8%a8%d8%a7%d8%aa [NC]
 # End WPFC Exclude
 # Start_WPFC_Exclude_Admin_Cookie
-RewriteCond %{HTTP:Cookie} !wordpress_logged_in_[^\=]+\=development@socialize.ae|sunil@systica.com
+RewriteCond %{HTTP:Cookie} !wordpress_logged_in_[^\=]+\=abdul.barkoumi@socialize.ae|development@socialize.ae|farah.dallal@socialize.ae|sunil@systica.com
 # End_WPFC_Exclude_Admin_Cookie
 RewriteCond %{HTTP_HOST} ^staging.alhuzaifa.slz.io
 RewriteCond %{HTTP_USER_AGENT} !(facebookexternalhit|WP_FASTEST_CACHE_CSS_VALIDATOR|Twitterbot|LinkedInBot|WhatsApp|Mediatoolkitbot)
@@ -93,3 +97,6 @@ FileETag None
 </IfModule>
 </FilesMatch>
 # END LBCWpFastestCache
+
+
+

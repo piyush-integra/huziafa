@@ -1,0 +1,26 @@
+/* Contact Us Page CSS */
+
+
+/* Image Content Block Full Section 1*/
+
+html:lang(ar) .elementor-11149 .elementor-element.elementor-element-4bc42326  > .elementor-container>.elementor-row {
+flex-direction: row-reverse;
+}
+
+/* Image */
+
+html:lang(ar) .elementor-11149 .elementor-element.elementor-element-67e8aaa2 > .elementor-widget-container {
+    margin: 0px 0 0px -240px;
+}
+
+/* Contact Form*/
+
+html:lang(ar) .elementor-11149 .elementor-element.elementor-element-670feff   > .elementor-container>.elementor-row {
+flex-direction: row-reverse;
+}
+
+/*Contact Form Image */
+
+html:lang(ar) .elementor-11149 .elementor-element.elementor-element-65eb640 > .elementor-element-populated{
+	margin: 0px -30px 0px 240px;
+}
