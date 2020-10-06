@@ -123,12 +123,33 @@ html:lang(ar) .summary.entry-summary {
 }
 html:lang(ar) span.save-percent{
 	margin-right: 40px !important;
+} /* Font Size CSS */
+
+html:lang(ar) .rey-mainMenu > .menu-item > a {
+    font-size: 18px !important;
+}
+
+html:lang(ar) .rey-mainMenu .sub-menu > .menu-item > a {
+    font-size: 16px !important;
+}
+
+html:lang(ar) .elementor-11348 .elementor-element.elementor-element-6788b5c .reyEl-menu-nav .menu-item > a{
+	font-size: 18px !important;
+	
+}
+
+html:lang(ar) .elementor-11348 .elementor-element.elementor-element-23ce7a3e .reyEl-menu-nav .menu-item > a {
+    font-size: 18px;
+}
+
+html:lang(ar) .elementor-11348 .elementor-element.elementor-element-2c8c0d0e .reyEl-menu-nav .menu-item > a {
+    font-size: 18px;
 }
 @import url("https://fonts.googleapis.com/css2?family=Markazi+Text:wght@400;500&display=swap");
 html:lang(ar) body {
 font-family: 'Markazi Text', serif;
 font-weight: 400;
-font-size: 16px;
+font-size: 18px;
 line-height: 1.5;
 }
 html:lang(ar) header {
@@ -268,10 +289,10 @@ direction: rtl;
 html:lang(ar) .woocommerce-cart-form__cart-item.cart_item {
 flex-direction: row-reverse;
 } @media only screen and (max-width: 767px) {
-html:lang(ar)  .elementor-11364 .elementor-element.elementor-element-e62b920 > .elementor-widget-container{
+html:lang(ar)  .elementor-12343 .elementor-element.elementor-element-e62b920 > .elementor-widget-container{
 margin: 0px 25px 0px 0px;
 }
-html:lang(ar)  .elementor-11364 .elementor-element.elementor-element-b78227a > .elementor-widget-container {
+html:lang(ar)  .elementor-12343 .elementor-element.elementor-element-b78227a > .elementor-widget-container {
 margin: 0px 15px 0px 0px;
 }
 html:lang(ar) .elementor-1647 .elementor-element.elementor-element-3022de9 > .elementor-widget-container {

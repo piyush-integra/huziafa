@@ -35,6 +35,11 @@
 
 @import "custom9.css";
 
+
+/* Font Size CSS */
+
+@import "custom10.css";
+
 @import url('https://fonts.googleapis.com/css2?family=Markazi+Text:wght@400;500&display=swap');
 
 
@@ -42,7 +47,7 @@ html:lang(ar) body {
 	
 	font-family: 'Markazi Text', serif;
     font-weight: 400;
-	font-size: 16px;
+	font-size: 18px;
     line-height: 1.5;
 }
 html:lang(ar) header {
@@ -290,10 +295,10 @@ html:lang(ar) .woocommerce-cart-form__cart-item.cart_item {
 }
 /* Hamburger Menu Styling*/
 @media only screen and (max-width: 767px) {
-html:lang(ar)  .elementor-11364 .elementor-element.elementor-element-e62b920 > .elementor-widget-container{
+html:lang(ar)  .elementor-12343 .elementor-element.elementor-element-e62b920 > .elementor-widget-container{
 	margin: 0px 25px 0px 0px;
 	}
-html:lang(ar)  .elementor-11364 .elementor-element.elementor-element-b78227a > .elementor-widget-container {
+html:lang(ar)  .elementor-12343 .elementor-element.elementor-element-b78227a > .elementor-widget-container {
     margin: 0px 15px 0px 0px;
 }
 	

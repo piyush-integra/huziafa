@@ -24,3 +24,7 @@ flex-direction: row-reverse;
 html:lang(ar) .elementor-11149 .elementor-element.elementor-element-65eb640 > .elementor-element-populated{
 	margin: 0px -30px 0px 240px;
 }
+
+html:lang(ar) .modelform input {
+	text-align:right;
+}
