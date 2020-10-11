@@ -47,7 +47,7 @@ html:lang(ar) body {
 	
 	font-family: 'Markazi Text', serif;
     font-weight: 400;
-	font-size: 18px;
+	font-size: 20px;
     line-height: 1.5;
 }
 html:lang(ar) header {
@@ -57,10 +57,20 @@ html:lang(ar) header {
 
 html:lang(ar) pre {
     padding: 0 !important;
+	text-align:right;
 }
-
+/* Slider Css */
 html:lang(ar) .rey-coverBlurry .cBlurry-slide.--content-x-start {
     direction: rtl;
+}
+
+html:lang(ar) .rey-coverBlurry .cBlurry-captionBtn a.btn-dash::after {
+    right: 6em !important;
+}
+
+html:lang(ar) .home .rey-coverBlurry .cBlurry-captionBtn a.btn-dash {
+    padding-right: 2.5em;
+	padding-left: 6.5em;align-content
 }
 
 html:lang(ar) .elementor-1647 .elementor-element.elementor-element-3022de9 > .elementor-widget-container {
@@ -113,8 +123,12 @@ html:lang(ar) form#mc4wp-form-1 .mc4wp-form-fields p input[type="email"]{
 
 /* Instagram Block Home Page*/
 pre{
-border: 0px;
-background-color: #fff;
+	border: 0px;
+	background-color: transparent;
+	font-family: 'Markazi Text', serif;
+    font-weight: 400;
+	font-size: 20px;
+    line-height: 1.5;
 }
 
 html:lang(ar) .elementor-1238 .elementor-element.elementor-element-29751a8f > .elementor-container>.elementor-row {
@@ -127,12 +141,16 @@ flex-direction: row-reverse;
 }
 html:lang(ar) .elementor-11037 .elementor-element.elementor-element-68fcf8e1 .elementor-button .elementor-align-icon-right {
     margin-right: 15px;
+	-webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+    -moz-transform: matrix(1, 0, 0, 1, 0, 0);
+    -o-transform: matrix(1, 0, 0, 1, 0, 0);
+    transform: matrix(1, 0, 0, 1, 0, 0);
 }
 
 /* Home Page Top Blog Menu*/
 html:lang(ar) .elementor-column-wrap--3a3e881.elementor-column-wrap.elementor-element-populated {
 	
-right:75%;
+   right:55%;
 
 }
 
@@ -140,10 +158,38 @@ html:lang(ar) #menu-item-11164 {
     margin-left: 10px !important;
 }
 
+html:lang(ar) #menu-item-wpml-ls-51-en {
+    display: none;
+}
+
 /* Home Page HUZAIFA RECOMMENDATIONS*/
 
 html:lang(ar) .woocommerce-loop-product__title {
     text-align: right;
+}
+
+html:lang(ar) .elementor-button span {
+	
+    font-size: 22px !important;
+	
+}
+
+html:lang(ar) .elementor-align-icon-right{
+	margin-right: 11px;
+	margin-left:0 !important;
+}
+
+html:lang(ar) .elementor-align-icon-left{
+	margin-right: 11px;
+	margin-left:0 !important;
+}
+
+/* Elementor Button Arrow*/
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-8234944 .elementor-button .elementor-align-icon-left{
+		-webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -moz-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -o-transform: matrix(-1, 0, 0, 1, 0, 0);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 
 html:lang(ar) .rey-productLoop-footer {
@@ -173,7 +219,8 @@ text-align: right;
 }
 
 html:lang(ar) .elementor-element.elementor-element-68fcf8e1.elementor-button-simple.elementor-widget.elementor-widget-button{
-text-align: right;
+    text-align: right;
+	margin-bottom: 0 !important;
 }
 
 html:lang(ar) .elementor-element.elementor-element-465e4f47.u-last-p-margin.elementor-widget.elementor-widget-text-editor {
@@ -248,6 +295,36 @@ html:lang(ar) .rey-searchPanel__suggestions {
 html:lang(ar) form {
     flex-direction: row-reverse;
 }
+/* Pagination Flip*/
+
+html:lang(ar) .rey-pagination
+{
+	flex-direction: row-reverse;
+}
+/* Breadcrumb Flip*/
+
+html:lang(ar) .rey-breadcrumbs{
+	direction:rtl
+}
+html:lang(ar) .rey-pagination .rey-arrowSvg{
+	-webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -moz-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -o-transform: matrix(-1, 0, 0, 1, 0, 0);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+	
+}
+
+html:lang(ar) .elementor-align-icon-right{
+	-webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -moz-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -o-transform: matrix(-1, 0, 0, 1, 0, 0);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+	
+}
+
+html:lang(ar) .rey-coverBlurry .cBlurry-captionBtn a {
+    font-size: 1rem;
+}
 
 /* Mobile Menu Alignment*/
 html:lang(ar) #main-menu-mobilemm1 {
@@ -268,9 +345,12 @@ html:lang(ar) .rey-mainNavigation.rey-mainNavigation--mobile .--submenu-indicato
     right: auto;
 }
 
+
+
 /* Menu SVG Connect Icon*/
 html:lang(ar) .rey-mobileNav--footerItem .rey-icon, .rey-mobileNav--footerItem .rey-arrowSvg svg, .rey-arrowSvg .rey-mobileNav--footerItem svg{
     margin-right: auto;
+	margin-left: 0;
 }
 
 /* Blog Content*/
@@ -292,6 +372,12 @@ html:lang(ar) .checkout.woocommerce-checkout {
 }
 html:lang(ar) .woocommerce-cart-form__cart-item.cart_item {
     flex-direction: row-reverse;
+}
+
+/* Location Page Flip*/
+html:lang(ar) .elementor-11085 .elementor-element.elementor-element-7992819 > .elementor-container>.elementor-row {
+flex-direction: row-reverse;
+
 }
 /* Hamburger Menu Styling*/
 @media only screen and (max-width: 767px) {
@@ -341,6 +427,19 @@ html:lang(ar) ul.sub-menu li::before {
 html:lang(ar) ul.sub-menu li{
 		padding-right: 20px;
 	}
+	
+html:lang(ar) .woocommerce-MyAccount-navigation-wrapper {
+    width: 100%;
+    margin-bottom: 30px;
+}
+	
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-246d52d8 > .elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+}
+	
+html:lang(ar) .elementor-11027 .elementor-element.elementor-element-76b57c3 > .elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+}
 
 }
 

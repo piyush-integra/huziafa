@@ -3,37 +3,104 @@
 
 /* Main Menu */
 html:lang(ar) .rey-mainMenu > .menu-item > a {
-    font-size: 18px !important;
+    font-size: 20px !important;
 }
 /* Sub Menu */
 html:lang(ar) .rey-mainMenu .sub-menu > .menu-item > a {
-    font-size: 16px !important;
+    font-size: 17px !important;
 }
 
 html:lang(ar) .elementor-11348 a{
-	font-size: 18px !important;
+	font-size: 20px !important;
 	
 }
 
 html:lang(ar) .elementor-11348 {
-    font-size: 18px !important;;
+    font-size: 20px !important;;
 }
 
 html:lang(ar) .elementor-11348 p {
-    font-size: 18px !important;
+    font-size: 20px !important;
 }
 
 html:lang(ar) footer p.elementor-icon-box-description {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 
 html:lang(ar) .elementor-11348 .elementor-element.elementor-element-7754edd1 {
     color: #FFFFFF;
-    font-size: 16px;
+    font-size: 18px;
 }
 /* Header Menu Account*/
 html:lang(ar) .rey-headerIcon .rey-headerIcon-btn{
 	
-	font-size: 18px !important;
+	font-size: 20px !important;
+}
+/* Cart Shopping*/
+html:lang(ar) .rey-cartPanel-title {
+	font-size: 1.250rem !important;
+}
+/* Cart Item Title*/
+html:lang(ar) .woocommerce.widget_shopping_cart .woocommerce-mini-cart-item a, .woocommerce .widget_shopping_cart .woocommerce-mini-cart-item a{
+	font-size: 1.150rem !important;
+}
+
+html:lang(ar) .woocommerce.rey-cartPanel {
+    font-size: 1.150rem !important;
+}
+
+html:lang(ar) .woocommerce-mini-cart__total.total {
+    font-size: 20px !important;
+}
+/* Cart Buttons*/
+html:lang(ar) .woocommerce.rey-cartPanel .woocommerce-mini-cart__buttons .checkout{
+	font-size: 1.15rem;
+}
+.woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit{
+	font-size: 1.15rem;
+}
+/* Top Header Menu*/
+html:lang(ar) .elementor-12343 .elementor-element.elementor-element-1b1eed2 .reyEl-menu-nav .menu-item > a{
+	    font-size: 18px !important;
+}
+/* Home Recommendations price*/
+html:lang(ar) .rey-productInner .rey-productLoop-footer del .woocommerce-Price-amount {
+	font-size: 1.250rem;
+}
+
+html:lang(ar) .rey-productInner .rey-productLoop-footer ins .woocommerce-Price-amount{
+	font-size: 1.250rem;
+}
+/* REY Bread Crumb*/
+html:lang(ar) .woocommerce div.product .rey-breadcrumbs{
+	font-size: 1rem;
+}
+html:lang(ar) .rey-breadcrumbs{
+	font-size: 17px !important;
+}
+/* Save Percent*/
+html:lang(ar) span.save-percent{
+	font-size: 1rem;
+}
+
+/* Add to Cart Button*/
+html:lang(ar) .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt{
+	font-size: 1rem;
+}
+
+html:lang(ar) .woocommerce table.shop_attributes th{
+		font-weight: normal;
+		font-size: 18px;
+}
+
+html:lang(ar) .set > a{
+		font-weight: 500;
+		font-size: 20px;
+	
+}
+/* Product Meta*/
+
+html:lang(ar) .woocommerce div.product .product_meta {
+	font-size: 1rem;
 }
