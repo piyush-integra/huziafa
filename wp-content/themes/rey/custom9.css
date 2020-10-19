@@ -68,3 +68,13 @@ html:lang(ar) .woocommerce ul.products li.product .rey-pBadge span{
 	font-size: 12px !important;
     font-weight: normal;
 }
+
+html:lang(ar) .woocommerce .rey-checkoutBar{
+	flex-direction:row-reverse;
+}
+html:lang(ar) .woocommerce .rey-checkoutBar h4 {
+    flex-direction:row-reverse;
+}
+html:lang(ar) .woocommerce .rey-checkoutBar p{
+	text-align:right;
+}

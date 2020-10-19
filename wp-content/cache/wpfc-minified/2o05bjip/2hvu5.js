@@ -1,2 +1,0 @@
-// source --> https://staging.alhuzaifa.slz.io/wp-content/themes/rey/assets/js/lib/polyfills.min.js?ver=1.6.9 
-var doPolyfills=function(){jQuery.getScript(reyPolyfills.url+reyPolyfills.css_vars[reyPolyfills.css_vars_use],function(){"function"==typeof cssVars&&cssVars()})};"always"===reyPolyfills.method?doPolyfills():"request"===reyPolyfills.method&&(window.CSS&&window.CSS.supports&&window.CSS.supports("(--foo: red)")||doPolyfills());

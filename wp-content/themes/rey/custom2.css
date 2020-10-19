@@ -27,3 +27,9 @@ html:lang(ar) .elementor-11027 .elementor-element.elementor-element-76b57c3 > .e
 
 	margin: 0px 0px 0px -30px;
 }
+
+@media screen and (max-width: 1024px) {
+html:lang(ar) .elementor-11027 .elementor-element.elementor-element-67e8aaa2 > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+}

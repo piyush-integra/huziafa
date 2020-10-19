@@ -45,10 +45,10 @@
 
 html:lang(ar) body {
 	
-	font-family: 'Markazi Text', serif;
-    font-weight: 400;
-	font-size: 20px;
-    line-height: 1.5;
+	font-family: 'Markazi Text', serif !important;
+    font-weight: 400 !important;
+	font-size: 20px !important;
+    line-height: 1.5 !important;
 }
 html:lang(ar) header {
     direction: rtl;
@@ -116,6 +116,7 @@ html:lang(ar) form#mc4wp-form-1 .mc4wp-form-fields p input[type="email"]{
 
 	margin-left: 0px;
 	margin-right: 20px;
+	text-align:right;
 }
 
 
@@ -379,12 +380,50 @@ html:lang(ar) .elementor-11085 .elementor-element.elementor-element-7992819 > .e
 flex-direction: row-reverse;
 
 }
+html:lang(ar) .woocommerce .related.products > h2, .woocommerce .upsells.products > h2, .woocommerce .crosssells.products > h2{
+	direction:rtl;
+}
+/* My Account Page Flip*/
+html:lang(ar) .woocommerce-MyAccount-navigation-wrapper {
+    text-align: right;
+}
+html:lang(ar) .woocommerce-account .woocommerce-MyAccount-content{
+	text-align: right;
+}
+/* Profile Text Box Flip*/
+
+html:lang(ar) input[type="text"] {
+    text-align: right !important;
+} 
+html:lang(ar) input[type="email"] {
+    text-align: right !important;
+} 
+html:lang(ar) input[type="password"] {
+    text-align: right !important;
+} 
+html:lang(ar) .widget-title{
+	text-align: right;
+}
+
+html:lang(ar) .widget_recent_entries ul{
+	text-align: right;
+}
+
+html:lang(ar) .rey-searchBox input[type="search"] {
+    padding-right: 3.125rem;
+	text-align: right;
+}
+
+html:lang(ar) .rey-searchBox .btn, .rey-searchBox .wp-block-button__link{
+    right: 0;
+	left: unset !important;
+}
 /* Hamburger Menu Styling*/
 @media only screen and (max-width: 767px) {
-html:lang(ar)  .elementor-12343 .elementor-element.elementor-element-e62b920 > .elementor-widget-container{
+html:lang(ar)  .elementor-13974 .elementor-element.elementor-element-e62b920 > .elementor-widget-container{
 	margin: 0px 25px 0px 0px;
 	}
-html:lang(ar)  .elementor-12343 .elementor-element.elementor-element-b78227a > .elementor-widget-container {
+html:lang(ar)  .elementor-13974 .elementor-element.elementor-element-b78227a > .elementor-widget-container {
     margin: 0px 15px 0px 0px;
 }
 	

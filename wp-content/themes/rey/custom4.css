@@ -28,3 +28,7 @@ html:lang(ar) .elementor-11149 .elementor-element.elementor-element-65eb640 > .e
 html:lang(ar) .modelform input {
 	text-align:right;
 }
+
+html:lang(ar) .elementor-11149 .elementor-element.elementor-element-9dfb98a .elementor-button-content-wrapper{
+flex-direction: row-reverse;
+}

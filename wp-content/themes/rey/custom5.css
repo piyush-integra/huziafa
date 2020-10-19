@@ -51,3 +51,7 @@ html:lang(ar) .elementor-11103 .elementor-element.elementor-element-8234944 .ele
 html:lang(ar) .elementor-11103 .elementor-element.elementor-element-8234944 .elementor-button-content-wrapper {
     flex-direction: row-reverse;
 }
+
+html:lang(ar) .elementor-11109 .elementor-element.elementor-element-4cf59f3 > .elementor-container > .elementor-row {
+    flex-direction: row-reverse;
+}
