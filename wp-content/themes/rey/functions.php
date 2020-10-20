@@ -102,6 +102,18 @@ add_action( 'after_setup_theme', function() {
 	 */
 	add_theme_support( 'title-tag' );
 
+	function custom_dir_attr($lang){
+		if (is_admin())
+			return $lang;
+
+		$dir_attr="";
+		if (is_rtl())
+			$dir_attr='lang="ar"';
+			
+		return $dir_attr;
+	}
+	add_filter('language_attributes','custom_dir_attr');
+
 	/*
 	 * Enable support for Post Thumbnails on posts and pages.
 	 *

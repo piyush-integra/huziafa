@@ -1,0 +1,27 @@
+/* Customisation Page CSS */
+
+
+/* Image Content Block Full Section 1*/
+
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-4bc42326  > .elementor-container>.elementor-row {
+flex-direction: row-reverse;
+
+}
+
+
+/* Banner*/
+html:lang(ar) .elementor-11363 .elementor-element.elementor-element-34ff3e2 > .elementor-container > .elementor-row {
+    flex-direction: row-reverse;
+}
+/* Enquiry Form*/
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-923c32f  > .elementor-container>.elementor-row {
+flex-direction: row-reverse;
+
+}
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-8234944 .elementor-button-content-wrapper{
+	flex-direction: row-reverse;
+}
+
+html:lang(ar) .modelform textarea {
+	text-align:right;
+}

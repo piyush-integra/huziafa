@@ -1,0 +1,499 @@
+/* WOO COMMERCE ARABIC CSS */
+
+@import "custom1.css";
+
+/* WOO COMMERCE HEADER CSS */
+
+@import "custom7.css";
+
+
+/* WOO COMMERCE LAYOUT CSS */
+
+@import "custom8.css";
+
+/* About Us CSS */
+
+@import "custom2.css";
+
+/* Customisation Page CSS */
+
+@import "custom3.css";
+
+/* Contact Us Page CSS */
+
+@import "custom4.css";
+
+/* Interior Design Services Page CSS */
+
+@import "custom5.css";
+
+/* Manufacturing Unit Page CSS */
+
+@import "custom6.css";
+
+/* Shop Page CSS */
+
+@import "custom9.css";
+
+
+/* Font Size CSS */
+
+@import "custom10.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Markazi+Text:wght@400;500&display=swap');
+
+
+html:lang(ar) body {
+	
+	font-family: 'Markazi Text', serif !important;
+    font-weight: 400 !important;
+	font-size: 20px !important;
+    line-height: 1.5 !important;
+}
+html:lang(ar) header {
+    direction: rtl;
+	text-align:right;
+}
+
+html:lang(ar) pre {
+    padding: 0 !important;
+	text-align:right;
+}
+/* Slider Css */
+html:lang(ar) .rey-coverBlurry .cBlurry-slide.--content-x-start {
+    direction: rtl;
+}
+
+html:lang(ar) .rey-coverBlurry .cBlurry-captionBtn a.btn-dash::after {
+    right: 6em !important;
+}
+
+html:lang(ar) .home .rey-coverBlurry .cBlurry-captionBtn a.btn-dash {
+    padding-right: 2.5em;
+	padding-left: 6.5em;align-content
+}
+
+html:lang(ar) .elementor-1647 .elementor-element.elementor-element-3022de9 > .elementor-widget-container {
+    margin: 0px 40px 0px 0px;
+}
+
+html:lang(ar) .elementor-1647 .elementor-element.elementor-element-adc9995 {
+flex-direction: row-reverse;
+
+}
+
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-670feff > .elementor-container>.elementor-row {
+flex-direction: row-reverse;
+
+}
+
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-246d52d8 > .elementor-element-populated {
+
+	margin: 0px 0px 0px -240px;
+}
+
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-67e8aaa2 > .elementor-widget-container{
+	margin: 0px 0px 0px 0px;
+}
+
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-2ce9faca > .elementor-element-populated{
+	margin: 50px 0px 0px -5px;
+}
+
+
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-02d823b > .elementor-widget-container{
+	margin: 0px 0px 0px -5px;
+}
+
+/* Footer Newsletter CSS Start */
+
+html:lang(ar) form#mc4wp-form-1 .mc4wp-form-fields p {
+flex-direction: row-reverse;
+
+}
+
+html:lang(ar) form#mc4wp-form-1 .mc4wp-form-fields p input[type="email"]{
+
+	margin-left: 0px;
+	margin-right: 20px;
+	text-align:right;
+}
+
+
+/* Footer Newsletter CSS End */
+
+/* Instagram Block Home Page*/
+pre{
+	border: 0px;
+	background-color: transparent;
+	font-family: 'Markazi Text', serif;
+    font-weight: 400;
+	font-size: 20px;
+    line-height: 1.5;
+}
+
+html:lang(ar) .elementor-1238 .elementor-element.elementor-element-29751a8f > .elementor-container>.elementor-row {
+	flex-direction: row-reverse;
+}
+
+html:lang(ar) .elementor-9188 .elementor-element.elementor-element-58bd0d05 > .elementor-container>.elementor-row {
+flex-direction: row-reverse;
+
+}
+html:lang(ar) .elementor-11037 .elementor-element.elementor-element-68fcf8e1 .elementor-button .elementor-align-icon-right {
+    margin-right: 15px;
+	-webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+    -moz-transform: matrix(1, 0, 0, 1, 0, 0);
+    -o-transform: matrix(1, 0, 0, 1, 0, 0);
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+/* Home Page Top Blog Menu*/
+html:lang(ar) .elementor-column-wrap--3a3e881.elementor-column-wrap.elementor-element-populated {
+	
+   right:55%;
+
+}
+
+html:lang(ar) #menu-item-11164 {
+    margin-left: 10px !important;
+}
+
+html:lang(ar) #menu-item-wpml-ls-51-en {
+    display: none;
+}
+
+/* Home Page HUZAIFA RECOMMENDATIONS*/
+
+html:lang(ar) .woocommerce-loop-product__title {
+    text-align: right;
+}
+
+html:lang(ar) .elementor-button span {
+	
+    font-size: 22px !important;
+	
+}
+
+html:lang(ar) .elementor-align-icon-right{
+	margin-right: 11px;
+	margin-left:0 !important;
+}
+
+html:lang(ar) .elementor-align-icon-left{
+	margin-right: 11px;
+	margin-left:0 !important;
+}
+
+/* Elementor Button Arrow*/
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-8234944 .elementor-button .elementor-align-icon-left{
+		-webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -moz-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -o-transform: matrix(-1, 0, 0, 1, 0, 0);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+html:lang(ar) .rey-productLoop-footer {
+	flex-direction: row-reverse;
+    float: right;
+}
+
+
+html:lang(ar) .rey-productInner .rey-productLoop-footer ins .woocommerce-Price-amount{
+	margin-right: 1em;
+}
+
+
+html:lang(ar) .price {
+    flex-direction: row-reverse;
+}
+
+/* Home Page Instagram*/
+
+html:lang(ar) .elementor-11037 .elementor-element.elementor-element-58bd0d05 > .elementor-container>.elementor-row {
+flex-direction: row-reverse;
+
+}
+
+html:lang(ar) .elementor-element.elementor-element-70051cbb.elementor-view-default.elementor-widget.elementor-widget-icon{
+text-align: right;
+}
+
+html:lang(ar) .elementor-element.elementor-element-68fcf8e1.elementor-button-simple.elementor-widget.elementor-widget-button{
+    text-align: right;
+	margin-bottom: 0 !important;
+}
+
+html:lang(ar) .elementor-element.elementor-element-465e4f47.u-last-p-margin.elementor-widget.elementor-widget-text-editor {
+    text-align: right;
+}
+
+/* Home Page Footer*/
+
+html:lang(ar) .elementor-1238 .elementor-element.elementor-element-30916526 > .elementor-container>.elementor-row {
+flex-direction: row-reverse;
+
+}
+
+/* Home Page Footer Shop*/
+html:lang(ar) .elementor-element.elementor-element-23ce7a3e.reyEl-menu--vertical.reyEl-menu--cols-1.elementor-widget.elementor-widget-reycore-menu{
+	text-align:right;
+}
+
+/* Home Page Footer Company*/
+html:lang(ar) .elementor-element.elementor-element-2c8c0d0e.reyEl-menu--vertical.reyEl-menu--cols-1.elementor-widget.elementor-widget-reycore-menu {
+    text-align: right;
+}
+
+/* Home Page Footer Help*/
+html:lang(ar) .elementor-element.elementor-element-6788b5c.reyEl-menu--vertical.reyEl-menu--cols-1.elementor-widget.elementor-widget-reycore-menu {
+    text-align: right;
+}
+
+/* Home Page Footer Menu Title*/
+html:lang(ar) .elementor-element.elementor-element-23ce7a3e.reyEl-menu--vertical.reyEl-menu--cols-1.elementor-widget.elementor-widget-reycore-menu .elementor-widget-container .rey-element.reyEl-menu.--dd-menu.--dd-menu--mobiles{
+	float: right;	
+}
+html:lang(ar) .elementor-element.elementor-element-2c8c0d0e.reyEl-menu--vertical.reyEl-menu--cols-1.elementor-widget.elementor-widget-reycore-menu .elementor-widget-container .rey-element.reyEl-menu.--dd-menu.--dd-menu--mobiles{
+	float: right;	
+}
+
+html:lang(ar) .elementor-element.elementor-element-6788b5c.reyEl-menu--vertical.reyEl-menu--cols-1.elementor-widget.elementor-widget-reycore-menu .elementor-widget-container .rey-element.reyEl-menu.--dd-menu.--dd-menu--mobiles{
+	float: right;	
+}
+
+/* Home Page Footer Address*/
+html:lang(ar) .elementor-element.elementor-element-69ee7074.elementor-widget__width-initial.elementor-widget.elementor-widget-text-editor {
+    text-align: right;
+}
+
+html:lang(ar) .elementor-11348 .elementor-element.elementor-element-2a8186fc .elementor-icon-box-wrapper {
+    text-align: right !important;
+}
+/* Home Page Footer Cards*/
+html:lang(ar) .elementor-11348 .elementor-element.elementor-element-0962eb7.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{
+	flex-direction: row-reverse;
+}
+
+html:lang(ar) .elementor-11348 .elementor-element.elementor-element-53d8e44 > .elementor-widget-container {
+    margin: 0px 0px 0px 40px;
+}
+
+/* Home Page Footer Social Media Icons*/
+html:lang(ar) .elementor-icon.elementor-social-icon.elementor-social-icon-instagram.elementor-repeater-item-7f38a9c {
+    margin-left: 5px !important;
+}
+
+html:lang(ar) .elementor-icon.elementor-social-icon.elementor-social-icon-youtube.elementor-repeater-item-46ee957 {
+    margin-left: 10px !important;
+}
+
+/* Home Page Search Suggestions*/
+html:lang(ar) .rey-searchPanel__suggestions {
+    text-align: right;
+}
+/* Search*/
+html:lang(ar) form {
+    flex-direction: row-reverse;
+}
+/* Pagination Flip*/
+
+html:lang(ar) .rey-pagination
+{
+	flex-direction: row-reverse;
+}
+/* Breadcrumb Flip*/
+
+html:lang(ar) .rey-breadcrumbs{
+	direction:rtl
+}
+html:lang(ar) .rey-pagination .rey-arrowSvg{
+	-webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -moz-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -o-transform: matrix(-1, 0, 0, 1, 0, 0);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+	
+}
+
+html:lang(ar) .elementor-align-icon-right{
+	-webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -moz-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -o-transform: matrix(-1, 0, 0, 1, 0, 0);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+	
+}
+
+html:lang(ar) .rey-coverBlurry .cBlurry-captionBtn a {
+    font-size: 1rem;
+}
+
+/* Mobile Menu Alignment*/
+html:lang(ar) #main-menu-mobilemm1 {
+    text-align: right;
+    list-style-position: inside;
+}
+
+/* Web Menu Alignment*/
+html:lang(ar) #main-menu-desktopmm1 {
+    text-align: right;
+	list-style-position: inside;
+}
+
+/* Menu Drop Indicator*/
+html:lang(ar) .rey-mainNavigation.rey-mainNavigation--mobile .--submenu-indicator {
+    opacity: 0.6;
+    left: 0;
+    right: auto;
+}
+
+
+
+/* Menu SVG Connect Icon*/
+html:lang(ar) .rey-mobileNav--footerItem .rey-icon, .rey-mobileNav--footerItem .rey-arrowSvg svg, .rey-arrowSvg .rey-mobileNav--footerItem svg{
+    margin-right: auto;
+	margin-left: 0;
+}
+
+/* Blog Content*/
+html:lang(ar) .rey-postList {
+    text-align: right;
+}
+
+/* Wishlist Content*/
+html:lang(ar) .tinv-wishlist.woocommerce {
+    text-align: right;
+}
+/* Checkout Content*/
+html:lang(ar) .woocommerce-info {
+    flex-direction: row-reverse;
+}
+html:lang(ar) .checkout.woocommerce-checkout {
+    text-align: right;
+    direction: rtl;
+}
+html:lang(ar) .woocommerce-cart-form__cart-item.cart_item {
+    flex-direction: row-reverse;
+}
+
+/* Location Page Flip*/
+html:lang(ar) .elementor-11085 .elementor-element.elementor-element-7992819 > .elementor-container>.elementor-row {
+flex-direction: row-reverse;
+
+}
+html:lang(ar) .woocommerce .related.products > h2, .woocommerce .upsells.products > h2, .woocommerce .crosssells.products > h2{
+	direction:rtl;
+}
+/* My Account Page Flip*/
+html:lang(ar) .woocommerce-MyAccount-navigation-wrapper {
+    text-align: right;
+}
+html:lang(ar) .woocommerce-account .woocommerce-MyAccount-content{
+	text-align: right;
+}
+/* Profile Text Box Flip*/
+
+html:lang(ar) input[type="text"] {
+    text-align: right !important;
+} 
+html:lang(ar) input[type="email"] {
+    text-align: right !important;
+} 
+html:lang(ar) input[type="password"] {
+    text-align: right !important;
+} 
+html:lang(ar) .widget-title{
+	text-align: right;
+}
+
+html:lang(ar) .widget_recent_entries ul{
+	text-align: right;
+}
+
+html:lang(ar) .rey-searchBox input[type="search"] {
+    padding-right: 3.125rem;
+	text-align: right;
+}
+
+html:lang(ar) .rey-searchBox .btn, .rey-searchBox .wp-block-button__link{
+    right: 0;
+	left: unset !important;
+}
+/* Hamburger Menu Styling*/
+@media only screen and (max-width: 767px) {
+html:lang(ar)  .elementor-13974 .elementor-element.elementor-element-e62b920 > .elementor-widget-container{
+	margin: 0px 25px 0px 0px;
+	}
+html:lang(ar)  .elementor-13974 .elementor-element.elementor-element-b78227a > .elementor-widget-container {
+    margin: 0px 15px 0px 0px;
+}
+	
+html:lang(ar) .elementor-1647 .elementor-element.elementor-element-3022de9 > .elementor-widget-container {
+    margin: 0px 15px 0px 0px;
+}
+	
+html:lang(ar) .elementor-11348 .elementor-element.elementor-element-69ee7074 {
+    width: 100%;
+    max-width: 100%;
+}
+html:lang(ar) .rey-element.reyEl-menu.--dd-menu.--dd-menu--mobiles {
+    float: none !important;
+}
+html:lang(ar) .elementor-11348 .elementor-element.elementor-element-6788b5c .reyEl-menuTitle {
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 0px;
+	flex-direction: row-reverse;
+}
+	
+html:lang(ar) .elementor-11348 .elementor-element.elementor-element-2c8c0d0e .reyEl-menuTitle {
+    padding: 0px 0px 0px 0px;
+	flex-direction: row-reverse;
+}
+html:lang(ar) .elementor-11348 .elementor-element.elementor-element-23ce7a3e .reyEl-menuTitle{
+	 padding: 0px 0px 0px 0px;
+	flex-direction: row-reverse;
+}	
+	
+html:lang(ar) .reyEl-menu .reyEl-menuTitle span {
+    margin-left: auto;
+	margin-right:0 !important;
+}
+	
+html:lang(ar) ul.sub-menu li::before {
+    right: 2px !important;
+
+}
+	
+html:lang(ar) ul.sub-menu li{
+		padding-right: 20px;
+	}
+	
+html:lang(ar) .woocommerce-MyAccount-navigation-wrapper {
+    width: 100%;
+    margin-bottom: 30px;
+}
+	
+html:lang(ar) .elementor-11069 .elementor-element.elementor-element-246d52d8 > .elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+}
+	
+html:lang(ar) .elementor-11027 .elementor-element.elementor-element-76b57c3 > .elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+}
+
+}
+
+
+@media screen and (min-width: 767px) {
+	
+	html:lang(ar) ul.sub-menu li.depth--3::before {
+    right: 44px !important;
+	}
+		
+    html:lang(ar) ul.sub-menu li.depth--3 {
+    position: relative;
+    padding-right: 50px !important;
+    }
+
+}
+	
+}

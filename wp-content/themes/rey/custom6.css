@@ -1,0 +1,14 @@
+/* Manufacturing Unit Page CSS */
+
+
+/* Image Content Block Full Section 1*/
+
+html:lang(ar) .elementor-11116 .elementor-element.elementor-element-4bc42326  > .elementor-container>.elementor-row {
+flex-direction: row-reverse;
+}
+
+/* Image */
+
+html:lang(ar) .elementor-11116 .elementor-element.elementor-element-67e8aaa2 > .elementor-widget-container {
+    margin: 0px 0 0px -240px;
+}
