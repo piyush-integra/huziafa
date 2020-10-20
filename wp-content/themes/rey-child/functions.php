@@ -541,7 +541,7 @@ function woocommerce_output_related_products_custom()
             <?php } ?>
         </ul>
     <?php } ?>
-    
+
 <?php }
 add_action('woocommerce_before_shop_loop_item_title', 'bbloomer_show_sale_percentage_loop', 25);
 
