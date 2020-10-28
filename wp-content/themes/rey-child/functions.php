@@ -112,46 +112,95 @@ function huzaifa_single_custom_action()
     $product_dimension = get_field('product_dimension', $product_id);
 ?>
     <div class="woocommerce-product-details__short-description dimension_container">
+
+        
+        <?Php $current_url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']; ?>
+
         <?php if ($product->is_type('variable')) { ?>
-            <strong>DIMENSIONS</strong>
+
+            <!-- CUSTOM CODE -->
+              <?Php { ?>      
+                <?php if (strpos($current_url,'/ar/') !== false) { ?>
+                    <strong>الأبعاد</strong>
+                <?Php } else { ?>
+                    <strong>DIMENSIONS</strong>
+                <?php }
+            } ?>
+
             <!-- <div class="woocommerce-variation-dimention"></div>   -->
             <p><?php echo $product_dimension; ?></p>
         <?php } else { ?>
-            <strong>DIMENSIONS</strong>
+        
+            <!-- CUSTOM CODE -->
+            <?Php { ?>      
+                <?php if (strpos($current_url,'/ar/') !== false) { ?>
+                    <strong>الأبعاد</strong>
+                <?Php } else { ?>
+                    <strong>DIMENSIONS</strong>
+                <?php }
+            } ?>
+
             <p><?php echo $product_dimension; ?></p>
         <?php } ?>
+        
+
+
+
     </div>
     <?php $product_id = get_the_ID();
     $post = get_post($product_id);
     $getPost =  $post->post_content; ?>
     <div class="product_extra_popup">
-        <?php if ($product->is_type('variable')) { ?>
-            <div class="accordion-container">
+            <?php if ($product->is_type('variable')) { ?>
+                <div class="accordion-container">
+                    <?Php $postwithbreaks = wpautop($getPost, true); ?>
+                    <?php if ($postwithbreaks) { ?>
+                        <div class="set">
+                            <!-- <div class="content_variable content">  </div>                              -->
+
+                            <!-- CUSTOM CODE -->
+                            <?Php { ?>      
+                                <?php if (strpos($current_url,'/ar/') !== false) { ?>
+                                    <a data-href="#">الخامات والتشطيب <i class="fas fa-caret-down" style="float: left;"></i> </a>
+                                <?Php } else { ?>
+                                    <a data-href="#">Materials and finish <i class="fas fa-caret-down"></i></a>
+                                <?php }
+                            } ?>
+
+                            <div class="content">
+                                <?php echo $postwithbreaks; ?>
+                            </div>
+                        </div>
+                    <?php } ?>
+                </div>
+
+            <?Php } else { ?>
                 <?Php $postwithbreaks = wpautop($getPost, true); ?>
                 <?php if ($postwithbreaks) { ?>
-                    <div class="set">
-                        <a data-href="#">Materials and finish <i class="fas fa-caret-down"></i></a>
-                        <!-- <div class="content_variable content">  </div>                              -->
-                        <div class="content">
-                            <?php echo $postwithbreaks; ?>
+                    <div class="accordion-container">
+                        <div class="set">
+                            <!-- CUSTOM CODE -->
+                            <?Php { ?>      
+                                <?php if (strpos($current_url,'/ar/') !== false) { ?>
+                                    <a data-href="#">الخامات والتشطيب <i class="fas fa-caret-down" style="float: left;"></i> </a>
+                                <?Php } else { ?>
+                                    <a data-href="#">Materials and finish <i class="fas fa-caret-down"></i></a>
+                                <?php }
+                            } ?>
+                            
+                            <div class="content">
+                                <?php echo $postwithbreaks; ?>
+                            </div>
                         </div>
                     </div>
-                <?php } ?>
-            </div>
-
-        <?Php } else { ?>
-            <?Php $postwithbreaks = wpautop($getPost, true); ?>
-            <?php if ($postwithbreaks) { ?>
-                <div class="accordion-container">
-                    <div class="set">
-                        <a data-href="#">Materials and finish <i class="fas fa-caret-down"></i></a>
-                        <div class="content">
-                            <?php echo $postwithbreaks; ?>
-                        </div>
-                    </div>
-                </div>
-        <?php }
+            <?php }
         } ?>
+
+
+
+      
+
+
     </div>
     <?php }
 add_action('woocommerce_single_product_summary', 'custom_single_product_styles', 2);
