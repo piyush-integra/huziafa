@@ -1,0 +1,30 @@
+#################### PLS DO NOT MODIFY THIS FILE  #########  tech@integratech.ae ############################
+##Description: Deploys huzaifa repository code to AWS STG & PROD envs.
+##Author: Piyush Khandelwal <piyush@integratech.ae> - Integra DevOps
+## Only use spaces to indent this .yml configuration.
+#################### PLS DO NOT MODIFY THIS FILE  #########  tech@integratech.ae ############################
+
+
+
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /var/www/huzaifa/
+hooks:
+  BeforeInstall:
+    - location: scripts/BeforeInstall.sh
+      timeout: 300
+      runas: root
+  AfterInstall:
+    - location: scripts/AfterInstall_blue_green.sh
+      timeout: 1300
+      runas: root
+  ApplicationStart:
+    - location: scripts/start_server.sh
+      timeout: 300
+      runas: root
+  ApplicationStop:
+    - location: scripts/stop_server.sh 
+      timeout: 300
+      runas: root
