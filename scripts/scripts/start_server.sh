@@ -6,6 +6,6 @@
 
 #!/bin/bash
 # timedatectl set-timezone "Asia/Dubai"
-service apache2 start
+sudo service apache2 start
 # sudo supervisorctl reread
 # sudo supervisorctl update

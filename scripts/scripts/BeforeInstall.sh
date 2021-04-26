@@ -6,5 +6,5 @@
 
 
 sudo service apache2 stop
-sudo rm -r /var/www/huzaifa/
-mkdir /var/www/huzaifa
+sudo rm -r /var/www/html/
+sudo mkdir /var/www/html
